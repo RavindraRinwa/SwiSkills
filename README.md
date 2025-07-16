@@ -33,14 +33,14 @@ Developed during **Code Sangam – Oct 2024**.
 - Socket.IO Server
 
 ### Config
-PORT=5000
-NODE_ENV=development
-DATABASE_USERNAME=your_username
-DATABASE=mongodb+srv://<USERNAME>:<PASSWORD>@clusters.ewclw.mongodb.net/SwiSkills?retryWrites=true&w=majority&appName=Clusters
-DATABASE_PASSWORD=your_password
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRES_IN=7d
-EMAIL_USERNAME=your_email_username
-EMAIL_PASSWORD=your_email_password
-EMAIL_HOST=smtp.yourprovider.com
-EMAIL_PORT=587
+- PORT=5000
+- NODE_ENV=development
+- DATABASE_USERNAME=your_username
+- DATABASE=mongodb+srv://< USERNAME >:< PASSWORD >@clusters.ewclw.mongodb.net/SwiSkills?retryWrites=true&w=majority&appName=Clusters
+- DATABASE_PASSWORD=your_password
+- JWT_SECRET=your_jwt_secret
+- JWT_EXPIRES_IN=7d
+- EMAIL_USERNAME=your_email_username
+- EMAIL_PASSWORD=your_email_password
+- EMAIL_HOST=smtp.yourprovider.com
+- EMAIL_PORT=587
